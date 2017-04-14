@@ -1,0 +1,6 @@
+git add . 添加所有文件  注意有个 . 
+git commit -m '注释' 提交本地
+git push origin master提交给默认分支
+git -rm 删除
+git pull origin master 从默认分支下载
+git branch -v 查看所有分支
