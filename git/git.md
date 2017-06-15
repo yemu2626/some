@@ -2,22 +2,22 @@
 
 $ git add .
 
-##### 提交本地
+##### 提交到本地
 
 $ git commit -m '注释'
 
-##### 提交到默认分支
+##### 提交到分支 master
 
 $ git push orign master
 
 ##### 删除文件
 
-$ git -rm 
+$ git -rm 文件名称
 
-##### 从默认分支下载
+##### 从默认分支拉取
 
 $ git pull orign master
 
-##### 查看所有分支
+##### 查看所有分支列表
 
 $ git branch -v
